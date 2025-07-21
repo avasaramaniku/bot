@@ -1,0 +1,15 @@
+ 
+ {
+  "YOUR_REEL_MEDIA_ID_1": {
+    "keywords": ["guide", "ebook", "download"],
+    "private_reply_message": "Hey {username}! Here's the exclusive guide you asked for: https://yourwebsite.com/guide-link"
+  },
+  "YOUR_REEL_MEDIA_ID_2": {
+    "keywords": ["discount", "offer", "deal", "promo"],
+    "private_reply_message": "Hi {username}! Grab your special discount here: https://yourwebsite.com/discount-link"
+  },
+  "DEFAULT_KEYWORDS": {
+    "keywords": ["info", "details", "more"],
+    "private_reply_message": "Thanks for your interest, {username}! We've sent you more info to your DMs."
+  }
+}
